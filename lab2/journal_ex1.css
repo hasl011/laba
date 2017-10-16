@@ -1,0 +1,70 @@
+body {
+	background-image:  url("background.gif");
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+
+#container {
+	 border: 10px  white solid;
+	 background-color: white;
+
+	}
+#header {
+	 border: 5px red solid;
+	 text-align: right;
+}
+
+
+.date {
+	border-bottom-style: dashed;
+	border-bottom-width: 2px;
+	}
+
+.entry {
+	text-align: justify;
+	padding: 5px; 
+	border: 4px #C2E9E9 solid;
+	border-radius:  15px;
+	background-color: #E8FBFB;
+	margin: 10px;
+}
+
+
+.entry img {
+float: right;	
+}
+
+
+
+.spacer{
+	clear: right;
+}
+#header h2 {
+	border: 5px orange solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
